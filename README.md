@@ -1,6 +1,6 @@
 # A comparison of four Clustering algorithms
 
-*Access the [clustering_comparison.md](https://github.com/gabriel-msilva/clustering-comparison/blob/master/clustering_comparison.md) file to read the full project.*
+*Access the [`clustering_comparison.md`](https://github.com/gabriel-msilva/clustering-comparison/blob/master/clustering_comparison.md) file to read the full project.*
 
 This kernel is a comparison between four different unsupervised learning clustering algorithms over simulated data. Four algorithms are tested:
 
